@@ -3,6 +3,8 @@ This excersize mainly make you familiar with our projects.
 # 1. How  to use github
 
 1. Use command:
+Open `cmd` if you use Windows operating system, choose a directory you like (use `cd` command) 
+and input following command:
 ```bash
 git clone https://github.com/celtics1863/PaparCameraSensor
 ```
