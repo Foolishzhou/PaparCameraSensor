@@ -1,0 +1,1 @@
+You can find each exercize in sub-derectories.
